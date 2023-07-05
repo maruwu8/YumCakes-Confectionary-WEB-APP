@@ -14,21 +14,34 @@ The objective of YumCakes Confectionary is to provide users with a convenient pl
 
 ### Features
 1. **Account Creation** and **Authentication**: Users must create an account or log in to access the content of the application. 🔐👤
+ 
    ![image](https://github.com/maruwu8/YumCakes-Confectionary-WEB-APP/assets/130385138/99f61d8d-534b-4e11-93ec-12b99abb715a)
+   
 2. **Interactive Menu**: The main page features an interactive menu that allows users to navigate to their desired pages easily. 📚📝
+
    ![image](https://github.com/maruwu8/YumCakes-Confectionary-WEB-APP/assets/130385138/0177efdb-a5cf-44c6-bb58-4d323b4d0493)
+   
 3. **Update Profile**: Users can update their profile information using the update profile button. 🔄👥
 4. **Search Functionality**: A search bar is provided to help users find specific products. 🔍📦
+   
    ![image](https://github.com/maruwu8/YumCakes-Confectionary-WEB-APP/assets/130385138/741fa980-9103-49f2-b67d-9b12d7491759)
+   
 5. **Wishlist**: Users can add their favorite items to the wishlist for future reference. ❤️📋
 6. **Cart**: Users can add items to their cart and proceed to checkout. 🛒💳
+   
    ![image](https://github.com/maruwu8/YumCakes-Confectionary-WEB-APP/assets/130385138/d6a1ae5a-62ff-4a92-b7c2-dfdb37064e91)
+   
 7. **Orders Page**: Users can view their previous orders in the orders page. 📦📚
 8. **Contact Page**: Users can send messages and leave reviews using the contact page. 📧✉️
+   
     ![image](https://github.com/maruwu8/YumCakes-Confectionary-WEB-APP/assets/130385138/bbf67ef2-88cf-4d2a-b395-fd00dbc79e6f)
+   
 9. **About Page**: Users can learn about YumCakes Confectionary and read the latest reviews from other customers. ℹ️📝👥
+    
     ![image](https://github.com/maruwu8/YumCakes-Confectionary-WEB-APP/assets/130385138/b3e20fcd-58db-4500-b5ca-cd6c2df5c59c)
+   
 10. **Admin Interface**: The application includes a back-end admin interface for managing products, customer messages, and orders. 🖥️🔒
+    
 ![image](https://github.com/maruwu8/YumCakes-Confectionary-WEB-APP/assets/130385138/03b407aa-8c0c-4038-b1e7-cbd48a86df89)
 
 ### Advantages
